@@ -33,7 +33,6 @@
 ![Linux](https://img.shields.io/badge/Linux-🖥️-informational)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-orange)
 ![Nmap](https://img.shields.io/badge/Nmap-blue)
-![AWS](https://img.shields.io/badge/AWS-yellow)
 ![Python](https://img.shields.io/badge/Python-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Git](https://img.shields.io/badge/Git-black)
@@ -44,14 +43,14 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔍 **WebReconCLI** | Recon tool for subdomains, ASN mapping, port scanning, and web tech fingerprinting |
+| 🔍 **VulnEagle** |"Advanced Web Application Reconnaissance & Pentesting CLI Tool" |
 
 
 ### 📫 Contact Me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/parveshdahale/
 - Email: dahaleparvesh@gmail.com
-- GitHub: 
+- GitHub: https://github.com/Parvesh776
 ---
 
 *“The quieter you become, the more you are able to hear.” – Kali Linux*
