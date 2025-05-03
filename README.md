@@ -15,6 +15,13 @@
 
 ---
 
+### 🛠️ Certifications
+
+- 🎓 [Google Cybersecurity Certificate](#)  
+- 🎓 [Microsoft Cybersecurity Professional Certificate](#)
+- 🎓 [Ethical Hacker By Cisco ](#)
+- 🎓 [SQl Injection BY EC-Council](#)
+
 ### 🧠 Skills & Knowledge
 
 - **Manual Recon & Footprinting** (ASNmap, MapCIDR, Assetfinder, Subfinder, Amass)
