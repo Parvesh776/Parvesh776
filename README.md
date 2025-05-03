@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parvesh Dahale </h1>
-<h3 align="center">Cybersecurity Enthusiast | Bug Bounty Hunter | Recon Specialist</h3>
+<h3 align="center">Cybersecurity Enthusiast | Bug Bounty Hunter </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
